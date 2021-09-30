@@ -1,0 +1,5 @@
+D:/PORJECT/plmcu/30_ZHONGYI/07_PL2007_TEMP_CAL_PLANTFORM/03_SW/RP2040/build/elf2uf2/CMakeFiles/elf2uf2.dir
+D:/PORJECT/plmcu/30_ZHONGYI/07_PL2007_TEMP_CAL_PLANTFORM/03_SW/RP2040/build/elf2uf2/CMakeFiles/edit_cache.dir
+D:/PORJECT/plmcu/30_ZHONGYI/07_PL2007_TEMP_CAL_PLANTFORM/03_SW/RP2040/build/elf2uf2/CMakeFiles/rebuild_cache.dir
+D:/PORJECT/plmcu/30_ZHONGYI/07_PL2007_TEMP_CAL_PLANTFORM/03_SW/RP2040/build/elf2uf2/boot_uf2_headers/CMakeFiles/edit_cache.dir
+D:/PORJECT/plmcu/30_ZHONGYI/07_PL2007_TEMP_CAL_PLANTFORM/03_SW/RP2040/build/elf2uf2/boot_uf2_headers/CMakeFiles/rebuild_cache.dir

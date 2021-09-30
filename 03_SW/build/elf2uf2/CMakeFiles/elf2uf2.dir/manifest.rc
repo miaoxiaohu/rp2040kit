@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/PORJECT/plmcu/30_ZHONGYI/07_PL2007_TEMP_CAL_PLANTFORM/03_SW/RP2040/build/elf2uf2/CMakeFiles/elf2uf2.dir/embed.manifest"

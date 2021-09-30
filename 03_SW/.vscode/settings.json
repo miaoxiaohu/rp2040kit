@@ -1,0 +1,15 @@
+{
+  "cmake.configureOnOpen": false,
+    "files.associations": {
+      "stdio_usb.h": "c",
+      "stdio.h": "c",
+      "led.h": "c",
+      "stdlib.h": "c",
+      "gpio.h": "c",
+      "i2c.h": "c",
+      "irq.h": "c",
+      "rp2040.h": "c",
+      "includes.h": "c",
+      "flash.h": "c"
+    },
+}

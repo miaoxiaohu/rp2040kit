@@ -1,0 +1,75 @@
+The system is: Windows - 10.0.19042 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Programs/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30037/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.29.30040 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.29.30040.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "D:/PORJECT/plmcu/30_ZHONGYI/07_PL2007_TEMP_CAL_PLANTFORM/03_SW/RP2040/build/elf2uf2/CMakeFiles/3.21.0/CompilerIdC/CMakeCCompilerId.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Programs/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30037/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.29.30040 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.29.30040.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "D:/PORJECT/plmcu/30_ZHONGYI/07_PL2007_TEMP_CAL_PLANTFORM/03_SW/RP2040/build/elf2uf2/CMakeFiles/3.21.0/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/PORJECT/plmcu/30_ZHONGYI/07_PL2007_TEMP_CAL_PLANTFORM/03_SW/RP2040/build/elf2uf2/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_c69b9\fast && 	"C:\Programs\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_c69b9.dir\build.make /nologo -L                  CMakeFiles\cmTC_c69b9.dir\build
+Building C object CMakeFiles/cmTC_c69b9.dir/CMakeCCompilerABI.c.obj
+	C:\Programs\CMake\bin\cmake.exe -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_c69b9.dir\CMakeCCompilerABI.c.obj.d --working-dir=D:\PORJECT\plmcu\30_ZHONGYI\07_PL2007_TEMP_CAL_PLANTFORM\03_SW\RP2040\build\elf2uf2\CMakeFiles\CMakeTmp --filter-prefix="注意: 包含文件:  " -- C:\Programs\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\WORK\AppData\Local\Temp\nm9A8.tmp
+CMakeCCompilerABI.c
+?鈷? 鍖呭惈鏂囦欢:  C:\Programs\CMake\share\cmake-3.21\Modules\CMakeCompilerABI.h
+Linking C executable cmTC_c69b9.exe
+	C:\Programs\CMake\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_c69b9.dir --rc=C:\WINDOW~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\WINDOW~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\Programs\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_c69b9.dir\objects1.rsp @C:\Users\WORK\AppData\Local\Temp\nmB4F.tmp
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: D:/PORJECT/plmcu/30_ZHONGYI/07_PL2007_TEMP_CAL_PLANTFORM/03_SW/RP2040/build/elf2uf2/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_b8fe5\fast && 	"C:\Programs\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_b8fe5.dir\build.make /nologo -L                  CMakeFiles\cmTC_b8fe5.dir\build
+Building CXX object CMakeFiles/cmTC_b8fe5.dir/CMakeCXXCompilerABI.cpp.obj
+	C:\Programs\CMake\bin\cmake.exe -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_b8fe5.dir\CMakeCXXCompilerABI.cpp.obj.d --working-dir=D:\PORJECT\plmcu\30_ZHONGYI\07_PL2007_TEMP_CAL_PLANTFORM\03_SW\RP2040\build\elf2uf2\CMakeFiles\CMakeTmp --filter-prefix="注意: 包含文件:  " -- C:\Programs\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\WORK\AppData\Local\Temp\nmE8A.tmp
+CMakeCXXCompilerABI.cpp
+?鈷? 鍖呭惈鏂囦欢:  C:\Programs\CMake\share\cmake-3.21\Modules\CMakeCompilerABI.h
+Linking CXX executable cmTC_b8fe5.exe
+	C:\Programs\CMake\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_b8fe5.dir --rc=C:\WINDOW~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\WINDOW~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\Programs\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_b8fe5.dir\objects1.rsp @C:\Users\WORK\AppData\Local\Temp\nmF37.tmp
+
+
+
